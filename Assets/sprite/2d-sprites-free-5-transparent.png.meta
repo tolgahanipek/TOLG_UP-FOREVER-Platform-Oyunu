@@ -1,0 +1,1637 @@
+fileFormatVersion: 2
+guid: c5e465f7ed8805e4aa2755156ca1aa4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1168427813185211813
+    second: 2d-sprites-free-5-transparent_0
+  - first:
+      213: -2748896124244866172
+    second: 2d-sprites-free-5-transparent_1
+  - first:
+      213: 3464973491187149372
+    second: 2d-sprites-free-5-transparent_2
+  - first:
+      213: 5006735910863389782
+    second: 2d-sprites-free-5-transparent_3
+  - first:
+      213: 4141967852484547454
+    second: 2d-sprites-free-5-transparent_4
+  - first:
+      213: 5768693536301476904
+    second: 2d-sprites-free-5-transparent_5
+  - first:
+      213: -7399344140368126388
+    second: 2d-sprites-free-5-transparent_6
+  - first:
+      213: 669603611546892885
+    second: 2d-sprites-free-5-transparent_7
+  - first:
+      213: -1938798128483032321
+    second: 2d-sprites-free-5-transparent_8
+  - first:
+      213: 5457242036846144084
+    second: 2d-sprites-free-5-transparent_9
+  - first:
+      213: -3665928019575547339
+    second: 2d-sprites-free-5-transparent_10
+  - first:
+      213: -7603646112976510086
+    second: 2d-sprites-free-5-transparent_11
+  - first:
+      213: -4245996740870090150
+    second: 2d-sprites-free-5-transparent_12
+  - first:
+      213: 163435486868962807
+    second: 2d-sprites-free-5-transparent_13
+  - first:
+      213: -8678073148203101259
+    second: 2d-sprites-free-5-transparent_14
+  - first:
+      213: 1576938976592697475
+    second: 2d-sprites-free-5-transparent_15
+  - first:
+      213: 7553133087261021778
+    second: 2d-sprites-free-5-transparent_16
+  - first:
+      213: -155859858340500734
+    second: 2d-sprites-free-5-transparent_17
+  - first:
+      213: -1521365064874290062
+    second: 2d-sprites-free-5-transparent_18
+  - first:
+      213: 7022035395041717154
+    second: 2d-sprites-free-5-transparent_19
+  - first:
+      213: 4522719458867887691
+    second: 2d-sprites-free-5-transparent_20
+  - first:
+      213: 246709533757181404
+    second: 2d-sprites-free-5-transparent_21
+  - first:
+      213: -2933831687738996668
+    second: 2d-sprites-free-5-transparent_22
+  - first:
+      213: -5291649191010476624
+    second: 2d-sprites-free-5-transparent_23
+  - first:
+      213: -8724693890422957977
+    second: 2d-sprites-free-5-transparent_24
+  - first:
+      213: 8359922828479111759
+    second: 2d-sprites-free-5-transparent_25
+  - first:
+      213: 497961297643175988
+    second: 2d-sprites-free-5-transparent_26
+  - first:
+      213: 7308715514114333173
+    second: 2d-sprites-free-5-transparent_27
+  - first:
+      213: -8936817758720319308
+    second: 2d-sprites-free-5-transparent_28
+  - first:
+      213: -2178491397314857764
+    second: 2d-sprites-free-5-transparent_29
+  - first:
+      213: 3611860233855873589
+    second: 2d-sprites-free-5-transparent_30
+  - first:
+      213: -488646097425361946
+    second: 2d-sprites-free-5-transparent_31
+  - first:
+      213: -7188366389908724393
+    second: 2d-sprites-free-5-transparent_32
+  - first:
+      213: 8149019536544516225
+    second: 2d-sprites-free-5-transparent_33
+  - first:
+      213: -5272507040846227628
+    second: 2d-sprites-free-5-transparent_34
+  - first:
+      213: -5835361763950521075
+    second: 2d-sprites-free-5-transparent_35
+  - first:
+      213: 6795984891319354203
+    second: 2d-sprites-free-5-transparent_36
+  - first:
+      213: 2679531630218876831
+    second: 2d-sprites-free-5-transparent_37
+  - first:
+      213: -1559604523971991476
+    second: 2d-sprites-free-5-transparent_38
+  - first:
+      213: 4368333141980432677
+    second: 2d-sprites-free-5-transparent_39
+  - first:
+      213: -8601369950150237052
+    second: 2d-sprites-free-5-transparent_40
+  - first:
+      213: -5133467831408760136
+    second: 2d-sprites-free-5-transparent_41
+  - first:
+      213: -3893231549249867064
+    second: 2d-sprites-free-5-transparent_42
+  - first:
+      213: 2314916812464510757
+    second: 2d-sprites-free-5-transparent_43
+  - first:
+      213: 3931126154539687695
+    second: 2d-sprites-free-5-transparent_44
+  - first:
+      213: 8655622271822432495
+    second: 2d-sprites-free-5-transparent_45
+  - first:
+      213: 9214109020275985596
+    second: 2d-sprites-free-5-transparent_46
+  - first:
+      213: 3411756048697665603
+    second: 2d-sprites-free-5-transparent_47
+  - first:
+      213: -8455996751660884645
+    second: 2d-sprites-free-5-transparent_48
+  - first:
+      213: 300110460809530675
+    second: 2d-sprites-free-5-transparent_49
+  - first:
+      213: -2248495487453440579
+    second: 2d-sprites-free-5-transparent_50
+  - first:
+      213: 8873740026874650669
+    second: 2d-sprites-free-5-transparent_51
+  - first:
+      213: 2911870038864880180
+    second: 2d-sprites-free-5-transparent_52
+  - first:
+      213: -7356473130906145439
+    second: 2d-sprites-free-5-transparent_53
+  - first:
+      213: 5121380474429315959
+    second: 2d-sprites-free-5-transparent_54
+  - first:
+      213: 8987851666404567478
+    second: 2d-sprites-free-5-transparent_55
+  - first:
+      213: -1072743425904790015
+    second: 2d-sprites-free-5-transparent_56
+  - first:
+      213: 3958216294125140678
+    second: 2d-sprites-free-5-transparent_57
+  - first:
+      213: 7399083088366668254
+    second: 2d-sprites-free-5-transparent_58
+  - first:
+      213: -6571334241085237076
+    second: 2d-sprites-free-5-transparent_59
+  - first:
+      213: -1592566637182336056
+    second: 2d-sprites-free-5-transparent_60
+  - first:
+      213: -804682042245411632
+    second: 2d-sprites-free-5-transparent_61
+  - first:
+      213: -5704463979031211562
+    second: 2d-sprites-free-5-transparent_62
+  - first:
+      213: 6811212500148302431
+    second: 2d-sprites-free-5-transparent_63
+  externalObjects: {}
+  serializedVersion: 8
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1765
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737307c6322646245b1af627c3c0b540
+      internalID: -1168427813185211813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1765
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e25b9013040554449f2f28d79c65a88
+      internalID: -2748896124244866172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1761
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0506bf93486b140929c6b8b091955e
+      internalID: 3464973491187149372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1761
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6341d407245b24fba3409c7b0fe0ca
+      internalID: 5006735910863389782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1758
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c608de33ea2cfc4eba290b84d07378f
+      internalID: 4141967852484547454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1758
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32b8d4492cb7f42a3fed51ff056c1a
+      internalID: 5768693536301476904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1758
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a366dbd7161314cbd20b44d5cd160f
+      internalID: -7399344140368126388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1758
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896f9fda8a994f4e8ff51821b7f61f2
+      internalID: 669603611546892885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1757
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b234af46fda63a458fac994c59d824b
+      internalID: -1938798128483032321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1757
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a04088a1644b8d4eaaa1674a2b5d91c
+      internalID: 5457242036846144084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_10
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1757
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16294f624f576bd47b4b90bdeccdf4c3
+      internalID: -3665928019575547339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_11
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1757
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a448614123583544fa850f70f2b23dd9
+      internalID: -7603646112976510086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1464
+        width: 152
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56e49681a26702408a87314c16f15fb
+      internalID: -4245996740870090150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1464
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5ab6100089614eacfd98d37cda175
+      internalID: 163435486868962807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1477
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82519efb25e69c44b3d77537316ec39
+      internalID: -8678073148203101259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1477
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb6974335d49748898d644210cf3eb
+      internalID: 1576938976592697475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1475
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d5bd44f5460fe43bb9b8c5c568497c
+      internalID: 7553133087261021778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1475
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb404aca4ad3e14286954b3bdf78353
+      internalID: -155859858340500734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_18
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1465
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9143c4e0e76e684e83a5573e7afa474
+      internalID: -1521365064874290062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1465
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc047da4d34fe549a7f8866233b9ff1
+      internalID: 7022035395041717154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_20
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1464
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90b15a50563ac4abe060b5ab3147ba
+      internalID: 4522719458867887691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_21
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1464
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db9ea8bfd28604985733e2ac095b60
+      internalID: 246709533757181404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1465
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a56b8c1d6d1240852145526cb2027
+      internalID: -2933831687738996668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_23
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1465
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b333940e561f748b683c8df105f851
+      internalID: -5291649191010476624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1172
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83572c32c9193414588876d592011451
+      internalID: -8724693890422957977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1172
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5dcc719631c3f4ab44b091f659ffa9
+      internalID: 8359922828479111759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1185
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdc9d7670fd9ca42846aeee9ff33b18
+      internalID: 497961297643175988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1185
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661a1680bc446b40898c5449941fbb2
+      internalID: 7308715514114333173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1183
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab2596035b38434984d067973d2107e
+      internalID: -8936817758720319308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1183
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f133dca343156d419bdddbb4fa24ac6
+      internalID: -2178491397314857764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1172
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6720dbf11f1394f9118ede9ee49fb4
+      internalID: 3611860233855873589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_31
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1172
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1540b0a84b1f6e40a20d9d13ac92f6e
+      internalID: -488646097425361946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_32
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1176
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2620e7a5c0a9a4f8da0bb7d569e681
+      internalID: -7188366389908724393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_33
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1176
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1183d14fbb9b3504789d3499d18d4825
+      internalID: 8149019536544516225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_34
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1176
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccf61c0fcd687546af55b2e9133a7c4
+      internalID: -5272507040846227628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_35
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1176
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8618e4882f98b0a4cbdc0117f0f87532
+      internalID: -5835361763950521075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 924
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790fbe60ff39fe941989479da78c1fee
+      internalID: 6795984891319354203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 924
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794939ee136b0134e89fe3cad509d26c
+      internalID: 2679531630218876831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 954
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735787d8094e4a449f54e8aa927a468
+      internalID: -1559604523971991476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 954
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa97f05ae3f7574bbd2fb113e676f7e
+      internalID: 4368333141980432677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 974
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4f9fb158dd2348b13eb2487f8df36
+      internalID: -8601369950150237052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_41
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 974
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f00e914c95844a92e5e00806e76d4
+      internalID: -5133467831408760136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_42
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 979
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872989feb2e81a9438ce89e82078eaee
+      internalID: -3893231549249867064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_43
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 979
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee818b7ae7191aa4a93925cde27d32c4
+      internalID: 2314916812464510757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_44
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 964
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134e8b076b588a94aa78d5651edd9fa4
+      internalID: 3931126154539687695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 964
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b611122a894d48a6270cea377b8ba
+      internalID: 8655622271822432495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_46
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 943
+        width: 122
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd8bd5f039e19d42a39de3b8c0e26c2
+      internalID: 9214109020275985596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_47
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 943
+        width: 122
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea9304c15937444e83aeec3e46c8226
+      internalID: 3411756048697665603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 650
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5c84ee39208b4fb923627aaa5c83a
+      internalID: -8455996751660884645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 650
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc05701351afe8a49bcdc8f4bdf1bbf4
+      internalID: 300110460809530675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_50
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 637
+        width: 129
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f3f825a500cd4ab5ee61d6ca5ca56
+      internalID: -2248495487453440579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 637
+        width: 129
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90fce935aadffc4a9c08c8bf5058e4a
+      internalID: 8873740026874650669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_52
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 613
+        width: 137
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a707b0fe6c8dc7408ff7c3ad0967ba0
+      internalID: 2911870038864880180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_53
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 613
+        width: 138
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42cbca9f9ade44280166166ea80c66
+      internalID: -7356473130906145439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_54
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 592
+        width: 120
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9143ea672bd19bb49b93dfa7f8c72002
+      internalID: 5121380474429315959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_55
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 592
+        width: 120
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5751ac466b0c24eafcece236c737df
+      internalID: 8987851666404567478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_56
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 592
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562a2886b877fe24998c5f8f1699c1a7
+      internalID: -1072743425904790015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_57
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 592
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2220d4606e80ee84cb1101070a45f62e
+      internalID: 3958216294125140678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_58
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 592
+        width: 89
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bde1b317fbf644aa4950abf3409029
+      internalID: 7399083088366668254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_59
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 592
+        width: 89
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0b448ff2320da429fc1d5b21c6aa53
+      internalID: -6571334241085237076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 300
+        width: 89
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192f392fd3b91a478691ee2e6f076fe
+      internalID: -1592566637182336056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 300
+        width: 89
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a7d392abc7a74ea1075f293ac3f30
+      internalID: -804682042245411632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 296
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a91c1f0a1a25164dac20b15dc897681
+      internalID: -5704463979031211562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-sprites-free-5-transparent_63
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 296
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c3a43bd18a49542b6f1c10071b8303
+      internalID: 6811212500148302431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c693cdfb90f6084cb305fbe3a8ee8da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
